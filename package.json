@@ -1,0 +1,12 @@
+{
+  "name": "bl-orm",
+  "version": "0.0.1",
+  "description" : "NodeJS Object-relational mapping",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
